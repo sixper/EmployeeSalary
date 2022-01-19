@@ -6,9 +6,9 @@ Read employee name,salary,start year and working hours then calculate total sala
 
 Tax: 0 if salary less than 1000 %3 otherwise
 
-Bonus: 30 TL every hour excess 40 hours.
+Bonus: 30 TL every hour which excess 40 hours.
 
-Salary Raise: %5 if experience less than 9 %10 if between 9-19 and %10 if more than 20 years.
+Salary Raise: %5 if experience less than 9, %10 if between 9-19 and %10 if more than 20 years.
 
 
 ![](img/1.png)
